@@ -1,0 +1,8 @@
+Package: com.0xilis.qmcdumper
+Name: QMCDumper
+Author: Snoolie K
+Description: Dump QMC Files for use with QuickMerge Helper
+Maintainer: Snoolie K
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0.0
